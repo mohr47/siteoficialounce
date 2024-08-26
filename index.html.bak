@@ -1,0 +1,144 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>OUNCE</title>
+		<link href="https://i.postimg.cc/HszrbW9x/lacoamarelobom.png">
+		<style type="text/css">
+			
+			*{color:black;}
+			body {background-image: url('https://i.postimg.cc/cL18M7cx/2305220-vista-aerea-de-topo-da-floresta-textura-fundo-visao-de-cima-foto.jpg');
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-size: 100%;
+				font-family: OCR A Std, monospace;	
+				}
+			h1 {
+            color: black;
+            font-size: 30px;}
+			
+			h2{ color:black;
+				margin: 5px;}
+				
+			h3{ color:#B8860B;
+				margin: 5px;
+				text-size: 50px;}
+			
+			p{font-family: Times, Times New Roman, serif;
+				font-size: 20px;}
+			li{font-family: Times, Times New Roman, serif;
+				font-size: 20px;}
+			
+			.margem{
+				margin-bottom: 80px;
+				margin-left: 120px;
+				margin-right: 120px;
+				margin-top: 20px;
+			}
+			.justificado{
+				text-align: justify;}
+				
+			hr{border-top: 2px dashed #B8860B;
+				border-bottom: 0px;}
+				
+			.teste{display:flex; margin: 0px;}
+			
+			.justificado{
+				text-align: justify;}
+			
+			.centro{text-align: center;}
+			
+			.flex{display: flex;}
+			
+			.borda{border: 7px solid black;}
+
+			.container {
+				width: 80%;
+				opacity: 0.8;
+				margin: auto;
+				background-color: beige;
+				border-radius: 10px;
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+				padding: 1px;
+			}
+       
+			.section {
+				margin-bottom: 15px;
+			}
+			.section img {
+				max-width: 100%;
+				border-radius: 10px;
+			}
+			.types {
+				display: flex;
+				justify-content: space-between;
+			}
+			.type {
+				opacity: 1.0;
+				margin: auto;
+				width: 95%;
+				background-color: white;
+				padding: 10px;
+				border-radius: 10px;
+				box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+			}
+			figure{
+				opacity:1.0;
+				border-radius: 0px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		
+		<h1 style="font-size:75px; color:white; text-align:center; background-color: #2F4F4F; padding: 20px; margin: 0px;">OUNCE</h1>
+		<br>
+		<br>
+		<div class="justificado">
+		<div class="container">
+        <div class="section">
+            
+        </div>
+        <div class="section types">
+            <div class="type">
+                <h2>Nossa história</h2>
+                <p>Nos anos 70, Jordan Lewis, um jovem inventor apaixonado por esportes. Com recursos limitados, ele desenvolveu um plano para derrubar as gigantes Nike, Adidas e Puma. Inicialmente enfrentando ceticismo e dificuldades financeiras, Jordan perseverou, melhorou o design com a ajuda de atletas e começou a ganhar reconhecimento local.</p>
+            </div>
+        </div>
+		
+		<div class="section types">
+            <div class="type">
+                <h2>Ounce Instinct</h2>
+                <p>Atreva-se a ter o domínio em campo com as chuteiras Ounce Instinct, para ditar cada jogada. Domine o jogo com o melhor da tecnologia do futebol e do esporte, permitindo-se viver e respirar cada momento da partida, ótima para o jogo moderno com nervuras inovadoras no cabedal que aumentam a estabilidade e o controle da bola, tanto para jogadores profissionais como amadores.</p>
+            </div>
+        </div>
+		
+		<div class="section types">
+            <div class="type">
+                <h2>Ounce Talon</h2>
+                <p>Seja qual for o seu conceito de velocidade, a chuteira Ounce Talon deixa você sempre um passo à frente. Para os mais velozes, o aplique de fibra de carbono e a ponta do pé elevada proporcionam um impulso explosivo. Para os craques, o Agilitycage estabilizador dá uma base firme para dribles sorrateiros.</p>
+            </div>
+        </div>
+		
+		<div class="section types">
+            <div class="type">
+                <h2>Ounce Classic</h2>
+                <p>Produzida para oferecer ajuste e toque de qualidade internacional, ela tem ponta do pé em couro nobre de canguru para conforto imediato ao calçar e controle de bola eficiente.</p>
+            </div>
+        </div>
+		
+		
+		
+		
+		
+		</div>
+		
+		
+		
+		
+		</div>
+		
+		
+		
+	</body>
+</html>
